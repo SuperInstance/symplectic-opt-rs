@@ -1,0 +1,10 @@
+[package]
+name = "symplectic-opt"
+version = "0.1.0"
+edition = "2021"
+description = "Symplectic optimization for agent dynamics"
+license = "MIT"
+repository = "https://github.com/SuperInstance/symplectic-opt-rs"
+
+[dependencies]
+num-traits = "0.2"
