@@ -2,9 +2,8 @@
 name = "symplectic-opt"
 version = "0.1.0"
 edition = "2021"
-description = "Symplectic optimization for agent dynamics"
+description = "Symplectic geometry for optimization and Hamiltonian systems"
 license = "MIT"
-repository = "https://github.com/SuperInstance/symplectic-opt-rs"
 
 [dependencies]
-num-traits = "0.2"
+nalgebra = "0.33"
